@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="YourFragrance - Vergleiche Parfüm-Dupes und finde die besten Rabatte.">
+    <title>YourFragrance - Parfüm Dupe Vergleich und Rabatte</title>
+    <style>
+        /* Allgemeine Einstellungen */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        /* Navigation */
+        header {
+            background-color: #222;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        header nav ul {
+            list-style: none;
+        }
+
+        header nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        header nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+        /* Hauptinhalt */
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #444;
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: #666;
+            font-size: 28px;
+            margin-top: 20px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin: 10px 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: #0066cc;
+            font-size: 20px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#startseite">Startseite</a></li>
+                <li><a href="#rabatte">Rabatte</a></li>
+                <li><a href="#dupes-vergleich">Dupe Vergleich</a></li>
+                <li><a href="#lattafa-dupes">Lattafa Dupes</a></li>
+                <li><a href="#günstig-original">Original Günstig</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hauptinhalt -->
+    <main>
+        <!-- Startseite -->
+        <section id="startseite">
+            <h1>Willkommen bei YourFragrance</h1>
+            <p>Deine Anlaufstelle für Parfüm-Dupes, Rabatte und alles rund um Parfüm!</p>
+        </section>
+
+        <!-- Rabatte -->
+        <section id="rabatte">
+            <h2>Aktuelle Parfüm-Rabatte</h2>
+            <p>Hier findest du die besten Angebote für Parfüms!</p>
+            <ul>
+                <li>Parfüm A - 20% Rabatt - <a href="#">Zum Angebot</a></li>
+                <li>Parfüm B - 15% Rabatt - <a href="#">Zum Angebot</a></li>
+                <li>Parfüm C - 10% Rabatt - <a href="#">Zum Angebot</a></li>
+            </ul>
+        </section>
+
+        <!-- Dupe Vergleich -->
+        <section id="dupes-vergleich">
+            <h2>Parfüm-Dupe Vergleich</h2>
+            <p>Vergleiche die besten Parfüm-Dupes und finde dein Lieblingsdupe!</p>
+            <ul>
+                <li>Dupe 1 - Original Parfüm A - <a href="#">Zum Vergleich</a></li>
+                <li>Dupe 2 - Original Parfüm B - <a href="#">Zum Vergleich</a></li>
+                <li>Dupe 3 - Original Parfüm C - <a href="#">Zum Vergleich</a></li>
+            </ul>
+        </section>
+
+        <!-- Lattafa Dupes -->
+        <section id="lattafa-dupes">
+            <h2>Lattafa Dupes</h2>
+            <p>Entdecke die besten Dupes der Marke Lattafa!</p>
+            <ul>
+                <li>Lattafa Dupe 1 - <a href="#">Zum Angebot</a></li>
+                <li>Lattafa Dupe 2 - <a href="#">Zum Angebot</a></li>
+                <li>Lattafa Dupe 3 - <a href="#">Zum Angebot</a></li>
+            </ul>
+        </section>
+
+        <!-- Günstigste Original Parfüm Preise -->
+        <section id="günstig-original">
+            <h2>Das Original Parfüm am günstigsten bekommen</h2>
+            <p>Finde das beste Angebot für das Original Parfüm!</p>
+            <ul>
+                <li>Original Parfüm A - Preis: 100€ - <a href="#">Zum Angebot</a></li>
+                <li>Original Parfüm B - Preis: 80€ - <a href="#">Zum Angebot</a></li>
+                <li>Original Parfüm C - Preis: 60€ - <a href="#">Zum Angebot</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 YourFragrance - Alle Rechte vorbehalten</p>
+    </footer>
+
+</body>
+</html>
